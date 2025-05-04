@@ -1,10 +1,19 @@
-## 📷 Tampilan Desain
+# Desain-Rumah-Panen-Segar-
 
-Beberapa tangkapan layar tersedia di folder ini, atau bisa dilihat versi lengkapnya di bawah.
+## 📸 Tampilan Desain
+
+Beberapa tangkapan layar tersedia di folder [`gambar-desain`](./gambar-desain):
+
+- ![Branda](./gambar-desain/Branda.jpg)
+- ![Benih](./gambar-desain/Benih.jpg)
+- ![Buah-buahan](./gambar-desain/Buah-buahan.jpg)
+- ![Sayuran](./gambar-desain/Sayuran.jpg)
+
+---
 
 ## 🔗 Link Desain Interaktif Canva
 
-👉 [Lihat Desain di Canva](https://www.canva.com/design/DAGlt2zK-FM/p3DFKguNCTFwnaICiA9NSw/edit?utm_content=DAGlt2zK-FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Lihat Desain di Canva](https://www.canva.com/design/DAGlt2zK-FM/p3DFKguNCTFwnaICiA9NSw/edit?utm_content=DAGlt2zK-FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🧾 Deskripsi
 
